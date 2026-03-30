@@ -3,7 +3,7 @@
 
 # EduSync - Frontend
 
-### 🚀 About LearnEase
+### 🚀 About EduSync
 _EduSync is an innovative virtual classroom application that takes video conferencing to the next level! With a focus on creating an engaging and interactive learning environment, EduSync offers a plethora of exciting features designed to enrich the teaching and learning experience._
 
 ## Features
